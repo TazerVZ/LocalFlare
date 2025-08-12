@@ -1,6 +1,10 @@
 # Node modules
-./server/node_modules/
-./client//node_modules/
+
+# Node modules in server directory
+/server/node_modules/
+
+# Node modules in client directory
+/client/node_modules/
 
 # Environment variables
 .env
